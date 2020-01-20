@@ -2,4 +2,7 @@ pandas
 spacy
 textatistic
 textblob 
-nltk 
+nltk
+seaborn
+scipy
+xlrd
