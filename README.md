@@ -7,3 +7,5 @@ Quick introduction into Artificial Intelligence using Jupyter Notebooks. The req
 and many others! use !pip install to lighten the loadup times 
 
 And should be loaded in the binder.org virtual machine. 
+
+Do pip install to lessen load times 
